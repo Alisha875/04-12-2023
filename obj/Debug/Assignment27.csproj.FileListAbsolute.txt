@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\bin\Debug\Assignment27.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\bin\Debug\Assignment27.exe
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\bin\Debug\Assignment27.pdb
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\obj\Debug\Assignment27.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\obj\Debug\Assignment27.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\obj\Debug\Assignment27.exe
+C:\Users\alish\Desktop\Mphasis\Day-21\Assignment27\Assignment27\obj\Debug\Assignment27.pdb
